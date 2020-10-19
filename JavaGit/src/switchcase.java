@@ -37,6 +37,8 @@ public class switchcase {
 					System.out.println("The Division of a and b = "+c);
 					break;
 					 }
+					 default:
+						System.out.println() 
 				 }
 				 }
 				 
