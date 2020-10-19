@@ -38,14 +38,17 @@ public class switchcase {
 					break;
 					 }
 					 default:
-						System.out.println() 
+					 {
+						 
+						System.out.println("Invalid value"); 
+						break;
 				 }
 				 }
-				 
-				 
 				}
-				
-				
+				 
 	}
+				
+				
+}
 
 
